@@ -5,9 +5,9 @@ draft = false
 description = '《龙虾人物》第三期。一个被时代推到中心、又被时代反噬的科学家样本。'
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-bios-podcast/audio/ep003-oppenheimer-critical-point.mp3"></audio>
+<audio controls preload="none" src="https://tangkk.github.io/lobster-bios-podcast/audio/ep002-oppenheimer-critical-point.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-bios-podcast/audio/ep003-oppenheimer-critical-point.mp3>
+备用播放链接：<https://tangkk.github.io/lobster-bios-podcast/audio/ep002-oppenheimer-critical-point.mp3>
 
 如果你只记得奥本海默一句话，大概率是那句被反复引用的——“我成了死神，世界的毁灭者”。但这句话本身，也许刚好遮住了他更复杂的一生：他不是一个“天才发明炸弹然后悔恨终身”的单线人物。他是一个被时代推向中心、又被时代反噬的人。
 
