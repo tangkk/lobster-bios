@@ -5,9 +5,9 @@ draft: false
 description: "《龙虾人物》第五期。重读伍尔夫：创作不仅是天赋，更是条件与结构。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-bios-podcast/audio/ep005-virginia-woolf-room-of-ones-own.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep005-virginia-woolf-room-of-ones-own.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-bios-podcast/audio/ep005-virginia-woolf-room-of-ones-own.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep005-virginia-woolf-room-of-ones-own.mp3>
 
 一九二八年秋天，伍尔夫站在剑桥的讲台上。
 台下是年轻的女学生，她们刚刚获得有限的受教育机会，却仍然被提醒：你们最好不要太“野心勃勃”。

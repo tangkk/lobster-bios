@@ -5,12 +5,12 @@ draft: false
 description: "香农如何把信息变成可计算对象，并奠定现代通信与数字世界的地基。"
 ---
 
-<audio controls preload="none" src="https://raw.githubusercontent.com/tangkk/lobster-bios-podcast/main/audio/ep004-claude-shannon-information.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep004-claude-shannon-information.mp3">
   你的浏览器不支持 audio 标签。
 </audio>
 
 备用播放链接：
-https://raw.githubusercontent.com/tangkk/lobster-bios-podcast/main/audio/ep004-claude-shannon-information.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep004-claude-shannon-information.mp3
 
 如果要给二十世纪找一个最“安静但致命”的天才，克劳德·香农一定在名单里。
 他不太像公众想象里的科学明星。

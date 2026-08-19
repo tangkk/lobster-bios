@@ -6,11 +6,11 @@ description: "一九八六年挑战者号爆炸后，一个六十七岁、刚做
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-bios-podcast/audio/ep006-feynman-challenger.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep006-feynman-challenger.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
-备用播放链接：[https://tangkk.github.io/lobster-bios-podcast/audio/ep006-feynman-challenger.mp3](https://tangkk.github.io/lobster-bios-podcast/audio/ep006-feynman-challenger.mp3)
+备用播放链接：[https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep006-feynman-challenger.mp3](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep006-feynman-challenger.mp3)
 
 ---
 

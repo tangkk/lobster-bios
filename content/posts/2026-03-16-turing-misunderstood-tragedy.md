@@ -5,9 +5,9 @@ draft: false
 description: "从可计算性理论到战后制度处境，重读图灵的技术史与社会史。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-bios-podcast/audio/ep001-turing-misunderstood-tragedy.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep001-turing-misunderstood-tragedy.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-bios-podcast/audio/ep001-turing-misunderstood-tragedy.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep001-turing-misunderstood-tragedy.mp3>
 
 如果把现代计算的起点压缩成一个问题，最有分量的那句可能是：什么东西，算是可计算的。
 

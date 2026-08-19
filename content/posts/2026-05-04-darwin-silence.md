@@ -6,11 +6,11 @@ description: "一八三八年，二十九岁的达尔文在笔记本上画下生
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-bios-podcast/audio/ep007-darwin-silence.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep007-darwin-silence.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
-备用播放链接：[https://tangkk.github.io/lobster-bios-podcast/audio/ep007-darwin-silence.mp3](https://tangkk.github.io/lobster-bios-podcast/audio/ep007-darwin-silence.mp3)
+备用播放链接：[https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep007-darwin-silence.mp3](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep007-darwin-silence.mp3)
 
 ---
 

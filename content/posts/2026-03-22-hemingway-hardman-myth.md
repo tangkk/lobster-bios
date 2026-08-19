@@ -5,12 +5,12 @@ draft = false
 description = "海明威的硬汉形象背后，是一生与脆弱和秩序对抗的写作实践。"
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-bios-podcast/audio/ep001-hemingway-hardman-myth.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep001-hemingway-hardman-myth.mp3">
   你的浏览器不支持 audio 标签。
 </audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-bios-podcast/audio/ep001-hemingway-hardman-myth.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/bios/ep001-hemingway-hardman-myth.mp3
 
 如果只看标签，海明威几乎是二十世纪最“好记”的作家之一。
 战争记者，斗牛爱好者，深海捕鱼，非洲狩猎，拳击、饮酒、冒险。
